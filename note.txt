@@ -1,5 +1,2 @@
-superuser for this app 
-[4:00 messages]
 
-username = shahboz
-password = dushanbe2211
+
